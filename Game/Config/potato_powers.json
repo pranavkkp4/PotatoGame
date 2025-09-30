@@ -1,0 +1,50 @@
+{
+  "powers": [
+    {
+      "id": "regular",
+      "displayName": "Regular Potato",
+      "description": "Throw once to deal light damage, returns to pickup.",
+      "damage": 10,
+      "cooldown": 0,
+      "maxCharges": 1,
+      "effects": ["return_to_pickup"]
+    },
+    {
+      "id": "ice",
+      "displayName": "Ice Potato",
+      "description": "Freezes hit enemies for a short duration.",
+      "damage": 5,
+      "cooldown": 5,
+      "maxCharges": 3,
+      "effects": ["freeze"]
+    },
+    {
+      "id": "explosive",
+      "displayName": "Explosive Potato",
+      "description": "Detonates on impact and damages nearby enemies.",
+      "damage": 25,
+      "cooldown": 8,
+      "maxCharges": 2,
+      "effects": ["area_of_effect"]
+    },
+    {
+      "id": "bouncy",
+      "displayName": "Bouncy Potato",
+      "description": "Launch yourself skyward when it hits the ground.",
+      "damage": 0,
+      "cooldown": 3,
+      "maxCharges": 2,
+      "effects": ["vertical_launch"]
+    },
+    {
+      "id": "golden",
+      "displayName": "Golden Potato",
+      "description": "Grants invulnerability for 10s (30s cooldown).",
+      "damage": 0,
+      "cooldown": 30,
+      "maxCharges": 1,
+      "effects": ["invulnerability"],
+      "duration": 10
+    }
+  ]
+}

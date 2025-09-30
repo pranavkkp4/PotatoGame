@@ -1,0 +1,39 @@
+{
+  "families": [
+    {
+      "id": "tomato",
+      "soldier": "tomato_soldier",
+      "spearThrower": "tomato_spear",
+      "mage": "tomato_mage",
+      "king": "tomato_king"
+    },
+    {
+      "id": "cabbage",
+      "soldier": "cabbage_soldier",
+      "spearThrower": "cabbage_spear",
+      "mage": "cabbage_mage",
+      "king": "cabbage_king"
+    },
+    {
+      "id": "cucumber",
+      "soldier": "cucumber_soldier",
+      "spearThrower": "cucumber_spear",
+      "mage": "cucumber_mage",
+      "king": "cucumber_king"
+    },
+    {
+      "id": "orange",
+      "soldier": "orange_soldier",
+      "spearThrower": "orange_spear",
+      "mage": "orange_mage",
+      "king": "orange_king"
+    },
+    {
+      "id": "yam",
+      "soldier": "yam_soldier",
+      "spearThrower": "yam_spear",
+      "mage": "yam_mage",
+      "king": "yam_king"
+    }
+  ]
+}

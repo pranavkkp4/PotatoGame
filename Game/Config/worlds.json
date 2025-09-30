@@ -1,0 +1,39 @@
+{
+  "worlds": [
+    {
+      "id": "world1",
+      "name": "TomatoLand",
+      "biome": "rolling farmland",
+      "enemyFamily": "Tomato",
+      "difficulty": 1
+    },
+    {
+      "id": "world2",
+      "name": "CabbageWorld",
+      "biome": "windy plains",
+      "enemyFamily": "Cabbage",
+      "difficulty": 2
+    },
+    {
+      "id": "world3",
+      "name": "CucumberCity",
+      "biome": "vertical metropolis",
+      "enemyFamily": "Cucumber",
+      "difficulty": 3
+    },
+    {
+      "id": "world4",
+      "name": "MetroOrange",
+      "biome": "subway bazaar",
+      "enemyFamily": "Orange",
+      "difficulty": 4
+    },
+    {
+      "id": "world5",
+      "name": "YamYork",
+      "biome": "nocturnal skyline",
+      "enemyFamily": "Yam",
+      "difficulty": 5
+    }
+  ]
+}

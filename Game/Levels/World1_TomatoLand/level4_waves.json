@@ -1,0 +1,8 @@
+{
+  "waves": [
+    { "enemyType": "tomato_soldier", "count": 5, "spawnDelay": 1.0 },
+    { "enemyType": "tomato_spear", "count": 3, "spawnDelay": 1.5 },
+    { "enemyType": "tomato_mage", "count": 2, "spawnDelay": 2.0 },
+    { "enemyType": "tomato_king", "count": 1, "spawnDelay": 0.0 }
+  ]
+}
